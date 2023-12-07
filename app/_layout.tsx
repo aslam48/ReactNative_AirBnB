@@ -92,6 +92,7 @@ function RootLayoutNav() {
             </TouchableOpacity>
           ),
         }}
+        
       />
       </Stack>
   );
